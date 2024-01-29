@@ -1,0 +1,9 @@
+# Ignore directory created by Python virtual environment
+env/
+.venv/
+__pycache__/
+
+.DS_Store
+
+# Ignore PyCharm user settings
+.idea
